@@ -61,4 +61,3 @@ Tabular and chart-based analytical views:
 
 ---
 
-> For setup instructions, deployment guide, and database schema, refer to the respective sections below (or create them if not added yet).
