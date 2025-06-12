@@ -1,4 +1,4 @@
-# 🏥 DME – Hospital Management System
+# 🏥 MediTrack – Hospital Management System
 
 **DME** is a full-stack hospital management system developed using **React**, **Node.js**, **Express**, and **MySQL**. The system provides secure, role-based access to a wide range of hospital operations including patient registration, appointment scheduling, billing, prescriptions, pharmacy and service management, and detailed reporting.
 
