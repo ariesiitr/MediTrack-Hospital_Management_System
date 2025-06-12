@@ -100,8 +100,9 @@ Planned enhancements and roadmap items to make DME even more powerful and user-f
 - ⏱️ Real-time queue monitoring for OPD/IPD
 
 ---
-## 🎥 Demo
+## 🎥 Demo Video
 
+🎬 [Download/Watch Demo Video](https://raw.githubusercontent.com/kushi0317/MediTrack-Hospital_Management_System/main/WhatsApp%20Video%202025-06-12%20at%2019.06.32_208087a5%20(1).mp4)
 
 
 
