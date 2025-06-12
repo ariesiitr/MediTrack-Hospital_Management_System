@@ -102,7 +102,10 @@ Planned enhancements and roadmap items to make DME even more powerful and user-f
 ---
 ## 🎥 Demo
 
-🎬 [Download/Watch Demo Video](https://raw.githubusercontent.com/kushi0317/MediTrack-Hospital_Management_System/main/assets/demo.mp4)
+<video src="https://raw.githubusercontent.com/kushi0317/MediTrack-Hospital_Management_System/main/assets/demo.mp4" width="700" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 
 Want to contribute to any of these? Feel free to submit ideas or open a pull request!
