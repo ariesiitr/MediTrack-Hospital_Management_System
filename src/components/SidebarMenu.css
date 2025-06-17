@@ -1,0 +1,14 @@
+.sidebar-menu{
+    width: 20%;
+    position: fixed;
+    z-index: 100;
+}
+
+.submenu-link{
+    margin-left: 10%;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.icon{
+    margin-right: 20px;
+}

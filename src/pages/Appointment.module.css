@@ -1,0 +1,36 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.select-date{
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 0.25rem;
+    width: 70%;
+}
+
+.select-doctor{
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 0.5rem; 
+}
+
+.select-doctor-time{
+    width: 100%;
+    border: 0px solid rgb(212, 212, 212);
+    border-radius: 0.5rem; 
+}
+
+.save-btn{
+    border: 1px solid black;
+    width: 8rem;
+    height: 2rem;
+    text-align: center;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    background-color: #008CBA;
+}
+
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+    gap : 1rem
+}
